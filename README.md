@@ -2,7 +2,7 @@
 
 ## Tổng Quan
 
-Dự án này nhằm mục đích giảm bớt thời gian chấm điểm cho các lớp học đông học sinh, có thể lên đến hàng nghìn học sinh. Chương trình sẽ đọc các bài làm từ các tệp văn bản bên ngoài, kiểm tra tính hợp lệ của dữ liệu, chấm điểm từng bài thi theo đáp án được cung cấp và tạo báo cáo chi tiết. Điều này giúp giáo viên tiết kiệm thời gian và có cái nhìn sâu sắc hơn về hiệu quả học tập của học sinh.
+Dự án này sẽ giúp giáo viên chấm bài nhanh hơn cho các lớp học đông học sinh. Nó sẽ đọc các bài làm tử học sinh, đảm bảo tính hợp lệ của dữ liệu, chấm điểm và đưa ra báo cáo chi tiết. Điều này sẽ giúp giáo viên tiết kiệm thời gian và hiểu được học sinh đang học tốt như thế nào.
 
 ## Tính Năng
 
@@ -18,7 +18,7 @@ Dự án này nhằm mục đích giảm bớt thời gian chấm điểm cho c�
 
 ## Yêu Cầu
 
-- Python 3.x
+- Python 3.x 
 - Pandas
 - NumPy
 
@@ -32,7 +32,7 @@ Dự án này nhằm mục đích giảm bớt thời gian chấm điểm cho c�
 Lưu các tệp văn bản chứa bài làm của học sinh vào một thư mục chỉ định trên máy tính của bạn. Đảm bảo rằng mỗi tệp có tên phù hợp với lớp học, trong projet này có 8 file điểm của 8 lớp từ class1.txt đến class8.txt.
 
 2. Chạy Chương Trình
-Thực thi script và nhập tên lớp khi được yêu cầu. Đảm bảo rằng tệp grade_calculator.py nằm cùng thư mục với các tệp dữ liệu.
+Thực thi script và nhập tên lớp khi được yêu cầu. Đảm bảo rằng tệp lastname_firstname_grade_the_exams.py nằm cùng thư mục với các tệp dữ liệu.
 
 3. Nhập Tên Lớp
 Khi được yêu cầu, nhập tên tệp lớp (ví dụ: class1 cho tệp class1.txt).
